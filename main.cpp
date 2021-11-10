@@ -16,7 +16,7 @@ int main() {
             cout << ProssimoNum<< endl;
         }
     } else {
-        cout << "Errore" << endl;
+        cout << "errore" << endl;
     }
     return 0;
 }
